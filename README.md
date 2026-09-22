@@ -1,1 +1,1 @@
-# VSB---Algoritmy-2
+# Algoritmy-2

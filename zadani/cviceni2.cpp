@@ -276,8 +276,8 @@ int main()
     cout << "Test 4 passed." << endl;
 
     // --------------------------------------------------------
-    // TEST 
-    // Zavisle radky v vetssem systemu.
+    // TEST 5
+    // Zavisle radky v vetsim systemu.
     //
     // Druha rovnice je dvakrat prvni rovnice.
     // --------------------------------------------------------

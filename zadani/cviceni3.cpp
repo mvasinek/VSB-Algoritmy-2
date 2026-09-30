@@ -645,7 +645,7 @@ SearchStatistics analyseSearch(
         3. Vložte VŠECHNY hodnoty z data do BST.
         4. Vložte VŠECHNY hodnoty z data do AVL stromu.
 
-        5. Uložte počet událostí.
+        5. Uložte počet vložených hodnot.
 
         6. Zjistěte výšku BST.
         7. Zjistěte výšku AVL stromu.

@@ -295,6 +295,10 @@ struct Event {
     // Používá se pouze u ADD.
     int id = 0;
     int x = 0;
+
+    Event(EventType type, int id = 0, int x = 0)
+        : type(type), id(id), x(x) {
+    }
 };
 
 

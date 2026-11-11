@@ -102,7 +102,7 @@ void testDirectAndIndirect() {
     vector<Exchange> rates = {
         {0, 1, 0.00012},  // CZK -> LTC
         {1, 2, 0.0027},   // LTC -> BTC
-        {0, 2, 0.00030}  // CZK -> BTC (mene vyhodne)
+        {0, 2, 0.00000030}  // CZK -> BTC (mene vyhodne)
     };
     Graph g = buildGraph(3, rates);
     floydWarshall(g);

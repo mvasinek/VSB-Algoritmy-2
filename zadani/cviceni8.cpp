@@ -28,15 +28,14 @@
  * malou toleranci EPS. Pokud je graf arbitrazni, nerekonstruujte
  * optimalni cestu (nemusi existovat konecne optimum).
  *
- * OTÁZKY K OBHAJOBE
+ * OTÁZKY
  * 1. Co predstavuji vrcholy, orientovane hrany a jejich vahy?
  * 2. Proc nelze primo minimalizovat soucet smennych kurzu?
  * 3. Jak funguje vase transformace a jeji zpetny prevod?
  * 4. Proc je vnejsi smycka algoritmu vedena pres vrchol k?
  * 5. Jakou casovou a pametovou slozitost maji vase funkce?
  * 6. Jak rekonstruujete posloupnost smen?
- * 7. Jak poznate arbitraz a co znamena pro optimalni cestu?
- * 8. Jak byste zapocitali procentualni poplatek za kazdou smenu?
+ * 7. Jak poznate arbitraz a co znamena pro optimalni cestu? 
  */
 
 #include <cassert>

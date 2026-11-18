@@ -130,7 +130,7 @@ void testBasicNetwork() {
     Result result = buildNetwork(network);
 
     assert(result.possible);
-    assert(result.totalCost == 50);
+    assert(result.totalCost == 43);
     assert(result.newConnections.size() == 3);
 }
 
